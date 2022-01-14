@@ -1,0 +1,49 @@
+
+
+/////////////////////////////////////////////////////////
+\/\/\/\\/\/\/\/\/Text Without PII\/\/\/\/\/\/\/\/\\/\/\/
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+			
+1) Installation For Slack (Passed)
+2) Installation For Slack EG (Passed)
+
+3) UnInstall and Reinstall Slack (Passed)
+4) UnInstall and Reinstall Slack EG (Passed)
+
+5) Login With Slack (Passed)
+6) Login With Slack EG (Passed)
+
+7) Slack Test Basic Policy Low(Tracking) Mode (Passed)
+8) Slack Test Basic Policy Medium(Warning) Mode (Passed)
+9) Slack Test Basic Policy High(Action) Mode (Passed)
+
+10) Slack EG Test Basic Policy Low(Tracking) Mode (Passed)
+11) Slack EG Test Basic Policy Medium(Warning) Mode (Passed)
+12) Slack EG Test Basic Policy High(Action) Mode (Passed)
+
+13) Slack Translations Medium(Warning) Mode (Passed)
+14) Slack Translations High(Action) Mode (Passed)
+
+15) Slack EG Translations Medium(Warning) Mode (FAILED) ISSUE: Not able to edit translation in warning mode Related Screen shot is added.
+16) Slack EG Translations High(Action) Mode (Passed)
+
+
+17) Match No's of Users in an event from Slack (Failed). Related Screen shot is added.
+18) Match No's of Users and Violations in an event from Slack EG (Failed For now but It's PR is ready to Merge)
+
+19) ADD Policy in hub (Passed)
+20) Policy Override For both slack and slack-eg (Passed)
+21) Vscan Report For Both Slack and Slack EG (Passed)
+
+
+
+
+Other Issues: 
+1) Remove processing screen after download the redacted file in Slack EG (AR)
+2) SlackEG Login Error Reproduce Steps (AR):
+	1) Install slack and login with slack.
+	2) Install slack-eg in single tenant manner and run import user cmd.
+	3) Uninstall 1 or more workspaces of slack eg from hub.
+	4) Reinstall slack-eg from apps page and run import users cmd.
+	5) Logout from slack account and try to login with slack-eg
+		Error will becomes
