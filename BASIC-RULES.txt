@@ -4,15 +4,7 @@
 							All BASIC POLICY Rules list 
 		
 		
-SSN : 185-36-3222
 
-Date 05-12-2023
-
-Email Address : tets124@test.net
-
-Phone number: +1 415 555 5422
-		
-		
 SSN : 185-36-3232
 
 Date 05-12-2022
