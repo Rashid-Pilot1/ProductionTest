@@ -1,0 +1,21 @@
+
+
+			Cloud Provider Credentials
+			
+			
+			
+Amazon Web Services Credentials :
+ 		
+	AWS_ACCESS_KEY_ID=AKIAGLBA7A6CB6J7CPN3
+	AWS_SECRET_ACCESS_KEY=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
+	
+	
+AWS Secret Access Key: cFASVyZ0atr8LAD5pb6iJ+PW9RY/IJ6W0QBUeaz6	
+	
+AWS_ACCESS_KEY_ID=AKIAGLBA7A6CB6J7CPN3
+	
+Basic Auth Header: Basic AXVubzpwQDU1dzByYM==
+
+Azure Json Web Token: 
+
+Authenticaktion Token: 
