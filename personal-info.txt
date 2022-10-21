@@ -50,24 +50,4 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC5bY7irpXxaF5zNHTO31H9D4q6BO5WDfnz+wDFD2HL
 
 
 
-787-87-9989
-255.255.255.9
-bruce@gmail.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
