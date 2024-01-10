@@ -2,21 +2,26 @@
 
 	ralitest@gmail.com
 	ralitest@gmail.com
-	ralitest@gmail.com
-	ralitest@gmail.com
 	
-	ralitest@test.net
 	
 	544-54-5555
 	544-54-5555
-	544-54-5555
-	544-54-5555
 	
-	875-54-4441
 	
 	192.168.100.1
 	192.168.100.1
-	192.168.100.1
-	192.168.100.1
 	
-	192.168.100.2
+	
+	donald@gmail.com contains
+	
+	777-88-9999
+	
+	12/12/2012
+	
+	192.168.128.9
+
+
+
+
+192.168.2.1
+11/11/2011

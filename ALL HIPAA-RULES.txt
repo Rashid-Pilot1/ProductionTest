@@ -1,0 +1,60 @@
+	
+				All HIPAA POLICY Rules list 
+				
+				
+Bank IBAN Number : AL47212110090000000235698741
+					
+Canada Hin Number : ABC2AB41G203
+					
+Canada OHIP Number : 1234-567-890
+ 
+Canada Social Insurance Number:	666-668-888 
+ 
+Credit Card Number : 5205105105105109
+
+Credit Card Track Number Track 2 data: ;5168755544412233=18071111000011100000?
+
+date : 12-05-2022
+
+Date of Birth :	11/24/1956 birthdate 
+
+Email Address :	test123@gmail.com
+
+FDA Code : 16WEE14
+
+ICD-10 : A00-B99  
+
+ICD-9 : 001-139  
+
+IP Address : 192.168.100.5
+
+MRN : mrn:1234567
+
+phone Number : 9656565656 (Taking it as OHIP number and when shared 1 454 454 4545 taking it as phone number but count is 2)
+ 
+USA Adaption Tin Number : 909-93-4642
+
+USA EIN Number : 52-4352452
+
+USA Individual Tin Number : 923-73-4356
+
+USA Prepare Tin Number : P12345678
+
+USA Social Security Number: 154-54-5555
+
+USA State : Florida
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
