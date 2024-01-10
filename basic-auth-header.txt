@@ -1,0 +1,6 @@
+
+test cloud provider policy
+
+Authorization: Basic AXVubzpwQDU1dzByYM==
+
+
